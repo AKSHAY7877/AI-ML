@@ -1,9 +1,28 @@
 // python fundamentals
 
 # Brackets
+    () - Arg, Expressions, Tuple
+    {} - dictionary or set
+    [] - indexing/subscripting/slicing, list
+    <> - NA
+
 # Identifiers
+    - It must contain alpha-numeric only
+    - Special character not allowed
+    - cannot start from number
+    - keywords can't be used
+
 # operators
+    1. Arithmetic: +, -, *, /, %(modulo), **(power), //(floor div)
+    2. Assignment: =, +=, -=, ........
+    3. Relational: <, >, >=, <=, ==, !=
+    4. Logical: and, or, not                                                       (use on boolean data only)
+    5. Bitwise: &, |, ~, ^(xor), >> (right shift), << (left shift)                 (boolean calculation)
+    6. Membership: in, not in                                                      (use to check something in collection)
+    7. Identity: is, is not                                                         (used for memory management)
+
 # Data & types
+
 # Built-in Functions for Data types
 # control Statements
 ## conditional
