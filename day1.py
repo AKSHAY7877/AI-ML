@@ -17,7 +17,7 @@
     2. Assignment: =, +=, -=, ........
     3. Relational: <, >, >=, <=, ==, !=
     4. Logical: and, or, not                                                       (use on boolean data only)
-    5. Bitwise: &, |, ~, ^(xor), >> (right shift), << (left shift)                 (boolean calculation)
+    5. Bitwise: &, |, ~(negation), ^(xor), >> (right shift     m >> n => m / 2^n), << (left shift     m << n => m * 2^n)  (boolean calculation)
     6. Membership: in, not in                                                      (use to check something in collection)
     7. Identity: is, is not                                                         (used for memory management)
 
