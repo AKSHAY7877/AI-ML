@@ -40,7 +40,7 @@
     10. NoneType None
 
 #Concept of Mutability
-                                Why constant is variable is used for memory management???
+                     Search for this           Why constant is variable is used for memory management???
     Works on Collections only
             i. Item Access
                 - Indexing / Sub-scripting
